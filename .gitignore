@@ -1,0 +1,7 @@
+# Disable PdfLATEX garbage
+*.aux
+*.fdb_latexmk
+*.fls
+*.ini
+*.synctex.gz
+*.log
